@@ -4,13 +4,15 @@ import urllib.request
 import random
 # import a module for internet access
 from urllib import request
+# man mikahm in code jadid ro ezafe konam
+
 
 
 # ---------------------------------------------------------------------------------------------------------------------
 
 def reverse_name1():
 
-    # input a string and convert it to a list and each charecter is one item of this list
+   
     # masoud sakkaki
     name = list(input(">>"))
 
